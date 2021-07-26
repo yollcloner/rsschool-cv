@@ -1,1 +1,1 @@
-https://yollcloner.github.io/rsschool-cv/cv
+https://yollcloner.github.io/rsschool-cv/
