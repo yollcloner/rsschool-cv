@@ -1,0 +1,58 @@
+html {
+    background-color: rgb(243, 239, 233);
+}
+
+header {
+    color: black;
+    background-color: cadetblue;
+    width: 100%;
+    height: max-content;
+    display: flex; flex-direction: column; justify-content: center; align-items: center;
+}
+
+body { 
+    font-size: 16px; 
+    color:rgb(85, 85, 85)
+}
+
+.wrapper {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+aside {
+    background: #f7d74db9;
+    padding: 10px;
+    width: 250px;
+    float: right;
+}
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    margin: auto;
+}
+
+mark {
+    background:brown;
+    color: white;
+}
+
+footer {
+    background-color: cadetblue;
+    width: 100%;
+    height: fit-content;
+    color: black;
+}
+
+.footer{
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
